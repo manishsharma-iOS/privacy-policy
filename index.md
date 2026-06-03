@@ -28,4 +28,4 @@ We take reasonable security measures to protect data.
 
 ## Contact
 For privacy concerns, contact:
-your-email@example.com
+manish.sharma78@gmail.com
